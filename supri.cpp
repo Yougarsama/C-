@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 		a=x+y+z;//和 
 		b=x*y*z;//积 
 		c=x*x+y*y+z*z;//平方和
-//		cout<<a<<" "<<b<<" "<<c<<endl;
+		cout<<a<<" "<<b<<" "<<c<<endl;
 		adj1=1;
 		for(j=2;j<i;j++)
 		{
